@@ -10,5 +10,5 @@ setup(
     author='Luis y Anita',
     author_email='luismasuelli@hotmail.com',
     description='Python watch cantrips. This will behave as AngularJS\'s cantrips',
-    install_requires=['python-cantrips>=0.6.6', 'python-cantrips>=0.7.5']
+    install_requires=['python-cantrips>=0.7.5']
 )
